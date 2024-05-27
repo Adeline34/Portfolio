@@ -1,22 +1,45 @@
 ---
-title: Duvet Genius
-publishDate: 2020-03-04 00:00:00
-img: /assets/stock-3.jpg
+title: Booki
+publishDate: 2023-05
+img: /assets/Booki.webp
 img_alt: Pearls of silky soft white cotton, bubble up under vibrant lighting
 description: |
-  We developed a virtual showcase for the softest bedding imaginable.
+  Création de la page d'accueil responsive pour une agence de voyage.
 tags:
-  - Design
-  - Dev
-  - Branding
+  - Html
+  - Css
+  - Responsive
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Dans ce projet, j'ai créé la page d'accueil d'une agence de voyage en utilisant HTML et CSS. Mon objectif principal était d'intégrer une interface utilisateur responsive, conforme aux maquettes fournies pour mobile, tablette et desktop. Ce projet m'a permis de développer des compétences essentielles en design et développement web responsive.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Détails du Projet :
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+1 - Intégration des Maquettes :
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+- J'ai converti les maquettes Figma en code HTML et CSS, assurant une correspondance fidèle avec les designs fournis.
+- J'ai utilisé des pratiques de codage propre et organisé pour maintenir la lisibilité et la maintenabilité du code.
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+2 - Création de Composants d'Interface :
+
+- J'ai développé des composants d'interface personnalisés pour les différentes sections de la page d'accueil, incluant des éléments tels que le header, la section de recherche, les filtres, les cartes d'hébergements et les activités.
+Chaque composant a été stylisé pour s'adapter harmonieusement à l'ensemble du design.
+
+3 - Design Responsive :
+
+- J'ai utilisé des media queries pour assurer une expérience utilisateur optimale sur toutes les tailles d'écran, des mobiles aux desktops.
+J'ai testé le site sur différents appareils et navigateurs pour garantir sa compatibilité et sa fluidité.
+
+4 - Optimisation de l'Expérience Utilisateur (UX) :
+
+- J'ai appliqué les principes de design UX pour améliorer la navigation et l'accessibilité du site.
+- J'ai veillé à ce que les utilisateurs puissent trouver facilement les informations et les fonctionnalités dont ils ont besoin, quelle que soit la taille de l'écran.
+
+5 - Compétences Développées :
+
+- HTML & CSS : Intégration et stylisation des maquettes.
+- Responsive Design : Utilisation de media queries et autres techniques pour rendre le site adaptable.
+- Développement Front-End : Création de composants d'interface réutilisables et maintenables.
+- Testing & Debugging : Tests sur différents appareils et navigateurs pour garantir la compatibilité.
+
+https://github.com/Adeline34/Booki.git
