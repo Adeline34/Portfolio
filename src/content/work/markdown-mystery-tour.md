@@ -1,50 +1,55 @@
 ---
-title: Projet 6 
-publishDate: 2023-08-02 00:00:00
-img: /assets/SophieBluel.webp
-img_alt: Iridescent ripples of a bright blue and pink liquid
+title: ArgentBank
+publishDate: 2023-05
+img: /assets/ArgentBank.webp
+img_alt: Image prise du site Argent Bank représentant le hero du site
 description: |
- Création d'une Page Web Dynamique pour une Architecte d'Intérieur.
+ Développement Front-End d'une Application Bancaire avec React et Redux.
 tags:
-  - API
-  - Javascript
-  - Modale
-  - Kanban
+  - React
+  - Redux
+  - Swagger
+  - API REST
 ---
 
-Ce projet consiste à développer une page web dynamique pour le site internet d'une architecte d'intérieur, en utilisant JavaScript et en communiquant avec une API. L'objectif principal est de présenter les travaux de l'architecte de manière interactive et fonctionnelle.
+Dans ce projet, j'ai travaillé sur le développement front-end d'une application bancaire en utilisant React et Redux pour créer une expérience utilisateur dynamique et réactive. Mon objectif principal était d'intégrer le front-end avec le back-end via des appels API, assurant ainsi une communication fluide entre le client et le serveur.
 
-# Détails du Projet :
+# Étapes du Projet:
 
-> 1 - Développement de la Page de Présentation :
+> 1 - Intégration Front-End et Back-End:
 
-- À partir du HTML fourni, j'ai développé la page de présentation des travaux de l'architecte.
-- J'ai géré les événements utilisateurs et manipulé les éléments du DOM avec JavaScript pour créer une expérience utilisateur fluide et interactive.
+- Écriture d'appels API REST pour connecter le front-end et le back-end de l'application.
+Assurer une communication fluide entre le client et le serveur via des requêtes HTTP.
 
-> 2 - Création de la Page de Connexion :
+> 2 - Développement de l'Interface Utilisateur:
 
-- J'ai conçu et développé une page de connexion pour l'administrateur du site, permettant un accès sécurisé aux fonctionnalités de gestion.
-- La page de connexion inclut des validations de formulaire et des retours visuels pour les utilisateurs.
+- Utilisation de React pour développer une interface utilisateur intuitive et responsive.
+Création d'un tableau de bord complet pour les utilisateurs, permettant la visualisation et la gestion des données bancaires.
 
-> 3 - Développement d'une Modale pour l'Upload de Médias :
+> 3 - Gestion de l'État avec Redux:
 
-- J'ai implémenté une modale permettant à l'administrateur d'uploader de nouveaux médias.
-- Cette fonctionnalité inclut la gestion des fichiers, les prévisualisations et les interactions avec l'API pour le stockage des médias.
+- Mise en place de Redux pour gérer les données de l'application de manière centralisée.
+- Maintien d'un état global cohérent à travers l'application pour une meilleure gestion des données et une expérience utilisateur améliorée.
 
-> 4 - Communication avec une API :
+> 4 - Documentation de l'API avec Swagger:
 
-- Pour la première fois, j'ai eu accès à un code back-end pour tester et intégrer les fonctionnalités de la page web.
-- J'ai appris à communiquer avec l'API pour récupérer, ajouter et modifier les données, ce qui est crucial pour les applications web modernes.
+- Utilisation de Swagger pour définir les points d'accès de l'API et modéliser les interactions avec les données des transactions.
+- Description claire des différentes routes et actions nécessaires pour l'API, facilitant la 
+compréhension et la maintenabilité.
 
-> 5 - Outils Utilisés :
+> 5 - Exécution du Code Côté Serveur avec Node.js:
 
-- Figma : Accès aux maquettes pour assurer la cohérence visuelle du site.
-- Visual Studio Code : Environnement de développement pour écrire et tester le code.
-- GitHub : Gestion de version pour suivre les modifications.
+- Utilisation de Node.js pour exécuter le code JavaScript côté serveur.
+- Expérience pratique dans la gestion d'une application full-stack, renforçant mes compétences en développement web.
 
-> Compétences Développées :
+> Compétences Développées:
 
-- JavaScript Avancé : Manipulation du DOM, gestion des événements et création de fonctionnalités dynamiques.
-- Communication avec API : Interaction avec une API pour des opérations CRUD (Create, Read, Update, Delete).
-- Développement de Formulaires Sécurisés : Création de pages de connexion avec validations et sécurité.
-- Gestion de Version avec Git et GitHub : Suivi et gestion des modifications du code source pour une collaboration efficace.
+- Développement avec React et Redux: Maîtrise des frameworks front-end modernes pour créer des interfaces utilisateur dynamiques et réactives.
+- Intégration API REST: Compétences avancées en intégration front-end/back-end via des appels API, assurant une communication efficace entre les différentes parties de l'application.
+- Documentation API avec Swagger: Expertise dans l'utilisation de Swagger pour documenter et modéliser les API, garantissant la clarté et la maintenabilité de l'interface de programmation.
+- Gestion de l'État de l'Application: Utilisation de Redux pour gérer l'état global de l'application, assurant une cohérence et une performance optimales.
+- Développement Full-Stack avec Node.js: Expérience pratique en exécution de code côté serveur, renforçant mes compétences en développement full-stack.
+
+> Conclusion:
+
+Ce projet m'a permis de développer des compétences essentielles en développement front-end et en intégration API, tout en renforçant ma capacité à gérer des applications web complexes. La maîtrise de React, Redux, Swagger et Node.js enrichit ma boîte à outils de développeur, me préparant à des défis techniques dans des environnements professionnels exigeants.

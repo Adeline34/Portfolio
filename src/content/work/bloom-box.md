@@ -1,5 +1,5 @@
 ---
-title: Projet 5
+title: Print it
 publishDate: 2023-06
 img: /assets/PrintIt.webp
 img_alt: Photo d'un livre jaune

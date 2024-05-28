@@ -1,5 +1,5 @@
 ---
-title: Projet 8
+title: Nina Carducci
 publishDate: 2024-04 00:00:00
 img: /assets/NinaCarducci.webp
 img_alt: Image d'un homme qui traverse

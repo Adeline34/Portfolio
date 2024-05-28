@@ -1,5 +1,5 @@
 ---
-title: Projet 7
+title: Kasa
 publishDate: 2023-10 00:00:00
 img: /assets/Kasa.webp
 img_alt: Image représentant le site Kasa

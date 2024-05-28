@@ -1,5 +1,5 @@
 ---
-title: Projet 3
+title: Booki
 publishDate: 2023-05
 img: /assets/Booki.webp
 img_alt: Logo de l'agence de voyage Booki
