@@ -64,3 +64,6 @@ Dans ce projet, j'ai implémenter le front-end d’une application en utilisant 
 En acquérant ces compétences, je suis bien préparé pour créer des applications web interactives et visuellement attrayantes, répondant aux exigences de l'industrie du développement web moderne.
 
 https://kasap8vite.netlify.app/
+
+Dépôt GitHub:
+https://github.com/Adeline34/Kasa.git

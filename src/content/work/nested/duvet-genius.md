@@ -42,4 +42,7 @@ J'ai testé le site sur différents appareils et navigateurs pour garantir sa co
 - Développement Front-End : Création de composants d'interface réutilisables et maintenables.
 - Testing & Debugging : Tests sur différents appareils et navigateurs pour garantir la compatibilité.
 
+https://adeline34.github.io/Booki/
+
+Dépôt GitHub: 
 https://github.com/Adeline34/Booki.git

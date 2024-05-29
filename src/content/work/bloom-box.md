@@ -30,3 +30,6 @@ Interaction entre JavaScript, HTML et CSS : J'ai acquis une compréhension appro
 Cette expérience m'a fourni un aperçu précieux de la programmation avec JavaScript dans un environnement de développement réel, en me permettant de créer des fonctionnalités interactives et d'améliorer l'engagement utilisateur sur des sites web.
 
 https://adeline34.github.io/Projet5/
+
+Dépôt GitHub: 
+https://github.com/Adeline34/Projet5.git
