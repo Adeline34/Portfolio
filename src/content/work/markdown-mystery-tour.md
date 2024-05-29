@@ -14,7 +14,7 @@ tags:
 
 Dans ce projet, j'ai travaillé sur le développement front-end d'une application bancaire en utilisant React et Redux pour créer une expérience utilisateur dynamique et réactive. Mon objectif principal était d'intégrer le front-end avec le back-end via des appels API, assurant ainsi une communication fluide entre le client et le serveur.
 
-# Étapes du Projet:
+## Étapes du Projet:
 
 > 1 - Intégration Front-End et Back-End:
 

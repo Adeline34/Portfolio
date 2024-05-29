@@ -1,6 +1,6 @@
 ---
 title: Sophie Bluel
-publishDate: 2023-08-02 00:00:00
+publishDate: 2023-08
 img: /assets/SophieBluel.webp
 img_alt: image de Sophie Bluel sur son site internet
 description: |
@@ -14,7 +14,7 @@ tags:
 
 Ce projet consiste à développer une page web dynamique pour le site internet d'une architecte d'intérieur, en utilisant JavaScript et en communiquant avec une API. L'objectif principal est de présenter les travaux de l'architecte de manière interactive et fonctionnelle.
 
-# Détails du Projet :
+## Détails du Projet :
 
 > 1 - Développement de la Page de Présentation :
 

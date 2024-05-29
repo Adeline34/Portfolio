@@ -14,7 +14,7 @@ tags:
 Dynamisation d'un Site Internet Statique d'Imprimerie avec un Carrousel Interactif en JavaScript .
 Pour ce projet, j'ai transformé un site internet statique d'une imprimerie en une expérience interactive et engageante. En intégrant un carrousel dynamique, j'ai appliqué les fondamentaux de JavaScript pour améliorer l'interactivité du site.
 
-# Objectifs du Projet :
+## Objectifs du Projet :
 
 - Apprentissage de JavaScript : J'ai exploré les concepts clés de JavaScript, un langage de programmation essentiel pour le développement web interactif.
 Intégration d'un Carrousel : J'ai mis à jour le code HTML existant et ajouté un carrousel en JavaScript, permettant de rendre le site plus dynamique.

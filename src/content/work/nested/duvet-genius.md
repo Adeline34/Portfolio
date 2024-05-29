@@ -13,7 +13,7 @@ tags:
 
  Dans ce projet, j'ai créé la page d'accueil d'une agence de voyage en utilisant HTML et CSS. Mon objectif principal était d'intégrer une interface utilisateur responsive, conforme aux maquettes fournies pour mobile, tablette et desktop. Ce projet m'a permis de développer des compétences essentielles en design et développement web responsive.
 
-# Détails du Projet :
+## Détails du Projet :
 
 > 1 - Intégration des Maquettes :
 
@@ -35,7 +35,7 @@ J'ai testé le site sur différents appareils et navigateurs pour garantir sa co
 - J'ai appliqué les principes de design UX pour améliorer la navigation et l'accessibilité du site.
 - J'ai veillé à ce que les utilisateurs puissent trouver facilement les informations et les fonctionnalités dont ils ont besoin, quelle que soit la taille de l'écran.
 
-> 5 - Compétences Développées :
+> Compétences Développées :
 
 - HTML & CSS : Intégration et stylisation des maquettes.
 - Responsive Design : Utilisation de media queries et autres techniques pour rendre le site adaptable.

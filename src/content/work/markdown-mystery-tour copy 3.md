@@ -1,6 +1,6 @@
 ---
 title: Kasa
-publishDate: 2023-10 00:00:00
+publishDate: 2023-10
 img: /assets/Kasa.webp
 img_alt: Image représentant le site Kasa
 description: |
@@ -40,7 +40,7 @@ Dans ce projet, j'ai implémenter le front-end d’une application en utilisant 
 - Objectif : Utiliser Node.js pour exécuter du code JavaScript en dehors du navigateur.
 - Activités : Installer et configurer Node.js, utiliser npm pour gérer les dépendances, et exécuter des scripts de développement.
 
-### En quoi ces compétences seront-elles importantes pour ma carrière ?
+#### En quoi ces compétences seront-elles importantes pour ma carrière ?
 
 > Maîtrise de React et React Router :
 

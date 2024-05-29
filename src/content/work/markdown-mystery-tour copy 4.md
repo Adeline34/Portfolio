@@ -14,7 +14,7 @@ tags:
 
 Dans ce projet, j'ai pris en charge le débogage et la finalisation du développement d'un site web one-page. Mon objectif principal était d'examiner le code existant pour identifier et résoudre les problèmes et bugs signalés. Pour ce faire, j'ai utilisé divers outils et techniques, notamment les Chrome DevTools et les outils spécifiques à React comme React Developer Tools.
 
-# Étapes du Projet:
+## Étapes du Projet:
 
 > 1 - Examen du Code Existant:
 

@@ -1,6 +1,6 @@
 ---
 title: Nina Carducci
-publishDate: 2024-04 00:00:00
+publishDate: 2024-04
 img: /assets/NinaCarducci.webp
 img_alt: Image d'un homme qui traverse
 description: |
@@ -10,7 +10,7 @@ tags:
   - Dev
   - User Testing
 ---
-# Objectif du Projet :
+## Objectif du Projet :
 
 - Optimiser le référencement et la performance d'un site web pour améliorer sa visibilité, son trafic organique et l'expérience utilisateur.
 
@@ -32,6 +32,7 @@ tags:
 - Wave : Pour évaluer l'accessibilité d'un site web et identifier les 
 problèmes d'accessibilité.
 
-> - L'optimisation du référencement (SEO) et de la performance, ainsi que l'amélioration de l'accessibilité, sont des compétences fondamentales dans le développement web moderne. Ces compétences permettent d'augmenter la visibilité et le trafic organique d'un site, ainsi que d'améliorer l'expérience utilisateur. De plus, la capacité à analyser et à améliorer les performances d'un site contribue directement à la satisfaction des clients et à la réussite des projets de développement web.
+
+ L'optimisation du référencement (SEO) et de la performance, ainsi que l'amélioration de l'accessibilité, sont des compétences fondamentales dans le développement web moderne. Ces compétences permettent d'augmenter la visibilité et le trafic organique d'un site, ainsi que d'améliorer l'expérience utilisateur. De plus, la capacité à analyser et à améliorer les performances d'un site contribue directement à la satisfaction des clients et à la réussite des projets de développement web.
 
 https://adeline34.github.io/nina-carducci/
