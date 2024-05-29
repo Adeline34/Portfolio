@@ -13,7 +13,7 @@ tags:
 
 Dans ce projet, j'ai implémenter le front-end d’une application en utilisant React et React Router pour créer une expérience utilisateur moderne et réactive.
 
-# Détails du Projet :
+### Détails du Projet :
 
 > 1 - Utilisation de React pour la Création d'Interfaces Utilisateur :
 
@@ -40,7 +40,7 @@ Dans ce projet, j'ai implémenter le front-end d’une application en utilisant 
 - Objectif : Utiliser Node.js pour exécuter du code JavaScript en dehors du navigateur.
 - Activités : Installer et configurer Node.js, utiliser npm pour gérer les dépendances, et exécuter des scripts de développement.
 
-# En quoi ces compétences seront-elles importantes pour ma carrière ?
+### En quoi ces compétences seront-elles importantes pour ma carrière ?
 
 > Maîtrise de React et React Router :
 
@@ -57,8 +57,10 @@ Dans ce projet, j'ai implémenter le front-end d’une application en utilisant 
 - Importance : La capacité à démarrer rapidement de nouveaux projets React avec Create React App simplifie le processus de développement et permet de se concentrer sur la création de fonctionnalités.
 - Application : Cette compétence prépare à gérer efficacement le cycle de vie complet des projets, de l'initialisation à la production.
 
-> Utilisation de Node.js pour le Développement Front-End :
+- Utilisation de Node.js pour le Développement Front-End :
 
 - Importance : Node.js est un outil puissant pour exécuter du code JavaScript côté serveur, facilitant ainsi le développement front-end et la gestion des dépendances.
 - Application : La maîtrise de Node.js est essentielle pour les développeurs front-end modernes, car elle permet de créer des environnements de développement robustes et de gérer les dépendances de projet de manière efficace.
 En acquérant ces compétences, je suis bien préparé pour créer des applications web interactives et visuellement attrayantes, répondant aux exigences de l'industrie du développement web moderne.
+
+https://kasap8vite.netlify.app/

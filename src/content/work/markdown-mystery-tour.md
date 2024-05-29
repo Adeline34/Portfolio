@@ -53,3 +53,5 @@ compréhension et la maintenabilité.
 > Conclusion:
 
 Ce projet m'a permis de développer des compétences essentielles en développement front-end et en intégration API, tout en renforçant ma capacité à gérer des applications web complexes. La maîtrise de React, Redux, Swagger et Node.js enrichit ma boîte à outils de développeur, me préparant à des défis techniques dans des environnements professionnels exigeants.
+
+https://argentbankp11.netlify.app/

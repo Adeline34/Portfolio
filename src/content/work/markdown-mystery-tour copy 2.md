@@ -48,3 +48,5 @@ Ce projet consiste à développer une page web dynamique pour le site internet d
 - Communication avec API : Interaction avec une API pour des opérations CRUD (Create, Read, Update, Delete).
 - Développement de Formulaires Sécurisés : Création de pages de connexion avec validations et sécurité.
 - Gestion de Version avec Git et GitHub : Suivi et gestion des modifications du code source pour une collaboration efficace.
+
+https://sophiebluelp6.netlify.app/
