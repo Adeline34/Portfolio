@@ -42,7 +42,4 @@ Dans ce projet, j'ai travaillé sur l'interface mobile-first du site d'une start
 - Utilisation de Sass : Structuration et optimisation du CSS avec des fonctionnalités avancées de Sass.
 - Gestion de Version avec Git et GitHub : Suivi et gestion efficace des modifications du code source.
 
-https://github.com/Adeline34/Projet4.git
-
-Dépôt GitHub: 
-https://github.com/Adeline34/Projet4.git
+<a href="https://github.com/Adeline34/Projet4.git" target="_blank">Repository GitHub</a>

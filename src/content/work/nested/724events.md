@@ -47,7 +47,6 @@ Dans ce projet, j'ai pris en charge le débogage et la finalisation du développ
 
 Ce projet m'a permis de renforcer mes compétences en développement web, en particulier en débogage, en test et en utilisation d'outils modernes. Il m'a préparé à travailler sur des projets web complexes et m'a donné une solide expérience pratique qui sera précieuse pour ma carrière de développeur web.
 
-https://724eventsp10.netlify.app/
+<a href="https://724eventsp10.netlify.app/" target="_blank">Visitez la page</a>
 
-Dépôt GitHub:
-https://github.com/Adeline34/724events.p10.git
+<a href="https://github.com/Adeline34/724events.p10.git" target="_blank">Repository GitHub</a>

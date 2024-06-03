@@ -49,5 +49,4 @@ Ce projet consiste à développer une page web dynamique pour le site internet d
 - Développement de Formulaires Sécurisés : Création de pages de connexion avec validations et sécurité.
 - Gestion de Version avec Git et GitHub : Suivi et gestion des modifications du code source pour une collaboration efficace.
 
-Dépôt GitHub:
-https://github.com/Adeline34/projet6.git
+<a href="https://github.com/Adeline34/projet6.git" target="_blank">Repository GitHub</a>

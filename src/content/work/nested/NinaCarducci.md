@@ -35,7 +35,6 @@ problèmes d'accessibilité.
 
  L'optimisation du référencement (SEO) et de la performance, ainsi que l'amélioration de l'accessibilité, sont des compétences fondamentales dans le développement web moderne. Ces compétences permettent d'augmenter la visibilité et le trafic organique d'un site, ainsi que d'améliorer l'expérience utilisateur. De plus, la capacité à analyser et à améliorer les performances d'un site contribue directement à la satisfaction des clients et à la réussite des projets de développement web.
 
-https://adeline34.github.io/nina-carducci/
+<a href="https://adeline34.github.io/nina-carducci/" target="_blank">Visitez la page</a>
 
-Dépôt GitHub:
-https://github.com/Adeline34/nina-carducci.git
+<a href="https://github.com/Adeline34/nina-carducci.git" target="_blank">Repository GitHub</a>

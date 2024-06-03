@@ -63,7 +63,6 @@ Dans ce projet, j'ai implémenter le front-end d’une application en utilisant 
 - Application : La maîtrise de Node.js est essentielle pour les développeurs front-end modernes, car elle permet de créer des environnements de développement robustes et de gérer les dépendances de projet de manière efficace.
 En acquérant ces compétences, je suis bien préparé pour créer des applications web interactives et visuellement attrayantes, répondant aux exigences de l'industrie du développement web moderne.
 
-https://kasap8vite.netlify.app/
+<a href="https://kasap8vite.netlify.app/" target="_blank">Visitez la page</a>
 
-Dépôt GitHub:
-https://github.com/Adeline34/Kasa.git
+<a href="https://github.com/Adeline34/Kasa.git" target="_blank">Repository GitHub</a>
